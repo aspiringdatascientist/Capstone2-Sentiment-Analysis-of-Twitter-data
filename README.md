@@ -11,6 +11,11 @@ A project flowchart below shows the order of methods involved in the completion 
 
 ![Capstone2flowchart](https://user-images.githubusercontent.com/48024013/72182262-1efbb480-33b9-11ea-9a82-65994fbde473.png)
 
+Example snippets:
+
+![mostusedhash](https://user-images.githubusercontent.com/48024013/72188412-41e19500-33c8-11ea-9e21-1c5d2af4dc76.png)
+
+
 
 
 
