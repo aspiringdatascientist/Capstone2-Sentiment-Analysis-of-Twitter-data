@@ -17,6 +17,19 @@ Example snippets:
 
 ![wc](https://user-images.githubusercontent.com/48024013/72225060-f5749180-354e-11ea-8a5e-438acfba87b0.png)
 
+![stdr](https://user-images.githubusercontent.com/48024013/72225090-5734fb80-354f-11ea-8ca1-c61fbfcf2286.png)
+
+![ee](https://user-images.githubusercontent.com/48024013/72225106-851a4000-354f-11ea-9f47-86b26d3fe5d7.png)
+
+Model Comparison and Selection:
+
+The performance of all models can be compared in the score table below:
+
+![nm](https://user-images.githubusercontent.com/48024013/72225137-d4f90700-354f-11ea-8824-50d1f0d06899.png)
+
+
+
+
 
 
 
