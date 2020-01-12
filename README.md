@@ -30,6 +30,7 @@ The performance of all models can be compared in the score table below:
 
 ![nm](https://user-images.githubusercontent.com/48024013/72225137-d4f90700-354f-11ea-8824-50d1f0d06899.png)
 
+The PDF format of this report can be found [here](https://github.com/aspiringdatascientist/Capstone2-Sentiment-Analysis-of-Twitter-data/commit/5bf4efce3623f4cd1fef37a5c16d7f957132de5d).
 
 
 
