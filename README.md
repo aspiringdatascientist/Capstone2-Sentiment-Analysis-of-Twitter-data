@@ -15,6 +15,9 @@ Example snippets:
 
 ![mostusedhash](https://user-images.githubusercontent.com/48024013/72188412-41e19500-33c8-11ea-9e21-1c5d2af4dc76.png)
 
+![wc](https://user-images.githubusercontent.com/48024013/72225060-f5749180-354e-11ea-8a5e-438acfba87b0.png)
+
+
 
 
 
